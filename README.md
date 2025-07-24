@@ -5,7 +5,7 @@ Projeto: Site da Feira de Eventos
 
 Protótipo desenvolvido no Adobe Xd para a Rede Farmácias Associadas. O objetivo era criar uma interface acessível, responsiva e amigável, com foco na fácil navegação.
 
-🔗 [Acesse o protótipo no XD]([https://xd.adobe.com/view/218b7257-9327-43d9-9319-5020c08448c6-74d8/])
+🔗## [Acesse o protótipo no XD](https://xd.adobe.com/view/218b7257-9327-43d9-9319-5020c08448c6-74d8/)
 
 ## 🧠 Features do layout
 - Navegação fluida com destaque para informações
